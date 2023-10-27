@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🧪 I’m currently working on:
-   * Small-drug design using [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) at [LPDI](https://www.epfl.ch/labs/lpdi/), EPFL
+   * - Drug design using [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) at [LPDI](https://www.epfl.ch/labs/lpdi/), EPFL
 - 🔬previously:
   * Data science intern at [Metadvice](https://www.metadvice.com/)
     
